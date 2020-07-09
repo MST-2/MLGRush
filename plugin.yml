@@ -1,6 +1,6 @@
-name: MLGRush
+name: MLGRush Modified
 version: 1.0
-author: PrinxIsLeqit
+author: MST2
 api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
 main: PrinxIsLeqit\MLGRush\MLGRush
 description: 'MLGRush'
